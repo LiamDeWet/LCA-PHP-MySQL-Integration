@@ -75,3 +75,6 @@ Copy the project folder into the XAMPP ` htdocs` directory
 ```
 http://localhost/week4_ex01_php_mysql_integration/index.php
 ```
+
+## Screenshot:
+<img src="Capture1" alt="screeshot of app" width="500">
