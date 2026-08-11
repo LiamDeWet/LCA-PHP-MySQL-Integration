@@ -77,4 +77,4 @@ http://localhost/week4_ex01_php_mysql_integration/index.php
 ```
 
 ## Screenshot:
-<img src="Capture1" alt="screeshot of app" width="500">
+<img src="Capture1.PNG" alt="screeshot of app" width="500">
